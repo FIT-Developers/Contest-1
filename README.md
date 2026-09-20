@@ -1,5 +1,5 @@
 # Contest-1
-##Professor Silaghi:
+## Professor Silaghi:
 * Code must be developed in a public GitHub project.
 * Complexity doesn't need to be high.
 * Work on it for at least 3 weeks with multiple GH submissions.
