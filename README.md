@@ -1,4 +1,6 @@
 # Contest-1
+Assembly Program
+
 ## Professor Silaghi:
 * Code must be developed in a public GitHub project.
 * Complexity doesn't need to be high.
@@ -8,4 +10,14 @@
 * If you don't, you will be accused of using AI generation and will be penalized.
 * Both projects make up at least 10% of your grade.
 * You will not be able to achieve an A without working on both.
-* The contests will be run in the last 4 weeks in class.
+* The contests will be run in the last 4 weeks of class.
+
+## Contest Ideas:
+1. Gambling Games
+    * Betting and chips for poker.
+    * Choosing which game.
+    * Choose from multiple minigames:
+      * Blackjack
+      * Roulette
+      * Poker
+      * Horse Betting
